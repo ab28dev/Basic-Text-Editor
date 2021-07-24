@@ -4,6 +4,7 @@ A Basic Text Editor made on QT
 ## Tools Used
 - QTCreator
 - MingGW 
+- QT
 - C++
 
 ## Interface
@@ -22,7 +23,7 @@ A Basic Text Editor made on QT
 - About section - Displays my Resume
 
 ## Features
-- Opwn file
+- Open file
 - Save & SaveAs
 - **BOLD** / UNBOLD
 - SuperScript and SubScript
