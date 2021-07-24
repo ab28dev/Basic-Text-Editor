@@ -4,6 +4,7 @@ A Basic Text Editor made on QT
 ## Tools Used
 - QTCreator
 - MingGW 
+- C++
 
 ## Interface
 ![](screenshots/00.png)
