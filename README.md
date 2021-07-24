@@ -44,3 +44,4 @@ A Basic Text Editor made on QT
 ### About
 ![](screenshots/02.png)
 
+
