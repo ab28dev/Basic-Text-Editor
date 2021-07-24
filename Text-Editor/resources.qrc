@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>images/icons8-about-480.png</file>
+        <file>images/icons8-bold-100.png</file>
+        <file>images/icons8-new-copy-96.png</file>
+        <file>images/icons8-redo-80.png</file>
+        <file>images/icons8-subscript-80.png</file>
+        <file>images/icons8-superscript-80.png</file>
+        <file>images/icons8-undo-80.png</file>
+        <file>images/icons8-exit-100.png</file>
+        <file>images/icons8-opened-folder-250.png</file>
+        <file>images/icons8-save-80.png</file>
+        <file>images/icons8-save-as-80.png</file>
+        <file>images/icons8-file-240.png</file>
+    </qresource>
+</RCC>
