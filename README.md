@@ -1,5 +1,5 @@
 # Basic-Text-Editor
-A Basic Text Editor made on QT
+A Basic Text Editor made using QT
 
 ## Tools Used
 - QTCreator
