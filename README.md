@@ -34,3 +34,12 @@ A Basic Text Editor made on QT
 - Italics, Underline, Strikethrough
 - Cut, Copy, Paste
 - Zoom In - Out
+
+## Application Screenshot
+
+### Editor
+![](screenshots/01.png)
+
+### About
+![](screenshots/02.png)
+
